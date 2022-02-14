@@ -199,13 +199,7 @@ class _SignInState extends State<SignIn> {
             ],
           ),
         ),
-        // const Align(
-        //     alignment: Alignment.centerLeft,
-        //     child: Padding(
-        //       padding: EdgeInsets.all(8.0),
-        //       child: Text('Forget Password',
-        //           style: TextStyle(color: Colors.orange)),
-        //     )),
+
         Align(
           alignment: Alignment.centerRight,
           child: Padding(
